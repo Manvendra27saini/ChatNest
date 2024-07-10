@@ -2,7 +2,7 @@ import "./chatList.css"
 
 const ChatList = () => {
     return (
-        <div className= 'list'>ChatList</div>
+        <div className= 'chatList'>ChatList</div>
     )
 }
 export default ChatList
