@@ -17,7 +17,7 @@ const Login = () => {
   };
   const handleLogin = e=>{
     e.preventDefault()
-    toast.warn(" Hello")
+    toast.success(" Hello")
   }
   return (
     <div className="login">
